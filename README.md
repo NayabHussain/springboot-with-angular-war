@@ -9,7 +9,7 @@ copy build portion of pom.xml into your pom.xml file and change the respective f
 Copy angular project into src/main/resources folder
 
 # step-3
-add  "buildProduction": "ng build --prod --base-href /auth-portal/", to package.json file
+add  "buildProduction": "ng build --prod --base-href /springangular/", to package.json file
 
 # step-4
 Build War file,
